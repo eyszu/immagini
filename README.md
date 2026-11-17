@@ -43,7 +43,7 @@ Requires Crystal ≥ 1.16 (developed and tested on 1.16.3 / LLVM 18; older versi
 `--release`:** the pixel loops use raw pointers and rely on LLVM optimisation, and debug builds are much slower.
 
 ```sh
-shards build --release                 # builds bin/immagini
+shards build --release                 # builds bin/immagini as executable
 crystal build --release -Dpreview_mt app.cr   # opt in to multi-threaded operations (the user's own program)
 ```
 
@@ -93,6 +93,8 @@ plus `-filter -quality -compression -background`. `immagini --help` lists them. 
 decode error, `2` bad usage.
 
 ---
+
+## See Docs.md for Immagini User Guide
 
 ## Design
 
