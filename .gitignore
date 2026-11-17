@@ -1,0 +1,9 @@
+/docs/
+/lib/
+/bin/
+/.shards/
+*.dwarf
+shard.lock
+/bench/out/
+sample.png
+outsample/

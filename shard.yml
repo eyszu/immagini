@@ -1,0 +1,14 @@
+name: immagini
+version: 1.0
+
+description: |
+  Fast, dependency-free image processing for Crystal: PNG/JPEG/BMP/PNM codecs,
+  resize, crop, rotate, color adjustments, blur/sharpen/convolve, compositing.
+
+crystal: ">= 1.16.0"
+
+license: MIT
+
+targets:
+  immagini:
+    main: src/cli.cr
