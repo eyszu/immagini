@@ -1,3 +1,4 @@
+<img width="192" height="192" alt="Italian Heart Icon Collage Burst" src="https://github.com/user-attachments/assets/0c4dc2c2-f9a5-4cb6-b4e1-350e037152c8" />
 # immagini
 
 Fast, dependency-free image processing for [Crystal](https://crystal-lang.org).
