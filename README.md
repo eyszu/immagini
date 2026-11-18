@@ -38,7 +38,7 @@ img.fill(256, 256).save("avatar.png")
 # shard.yml
 dependencies:
   immagini:
-    github: your-org/immagini
+    github: eyszu/immagini
 ```
 
 Requires Crystal ≥ 1.16 (developed and tested on 1.16.3 / LLVM 18; older versions are untested). **Always build with
